@@ -1,1 +1,1 @@
-print("ET0735 - devops")
+print("ET0735 - devops is a dcep module")
